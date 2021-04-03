@@ -1,2 +1,2 @@
 # python-calculator
-just a calculator from python from scratch
+just a calculator done with python from scratch
